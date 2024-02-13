@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "name": "lokoguard-crashlytics",
+  "description": "This SDK will help to capture all the uncaught exceptions and as well as log known exceptions to lokoguard.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokoguard/lokoguard-crashlytics-js.git"
+  },
+  "keywords": [
+    "lokoguard",
+    "crashlytics",
+    "loggin"
+  ],
+  "author": "Lokoguard Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lokoguard/lokoguard-crashlytics-js/issues"
+  },
+  "homepage": "https://github.com/lokoguard/lokoguard-crashlytics-js#readme"
+}
